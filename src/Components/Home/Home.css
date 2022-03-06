@@ -1,0 +1,20 @@
+.home {
+  display: flex;
+}
+
+.travelPlaces {
+  display: flex;
+}
+.SreeMongol {
+}
+
+.sundorban {
+}
+
+.CoxsBazar {
+}
+
+.travelPlaces img {
+  width: 50%;
+  height: 400px;
+}
